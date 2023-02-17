@@ -5,7 +5,9 @@ We Are Muslim Programmers
 This is a paid tool
 
 
-https://github.com/Muslim-Tech786/M_TECH.git
+rm -rf M_TECH
+
+git clone https://github.com/Muslim-Tech786/M_TECH.git
 
 cd M_TECH
 
