@@ -11,6 +11,6 @@ git clone https://github.com/Muslim-Tech786/M_TECH.git
 
 cd M_TECH
 
-python Run.py
+python M-TECH.py
 
 ---
