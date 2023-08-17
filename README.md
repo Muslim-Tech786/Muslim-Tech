@@ -5,11 +5,11 @@ We Are Muslim Programmers
 This is a paid tool
 
 
-rm -rf M_TECH
+rm -rf Muslim-Tech
 
-git clone https://github.com/Muslim-Tech786/M_TECH.git
+git clone https://github.com/Muslim-Tech786/Muslim-Tech.git
 
-cd M_TECH
+cd Muslim-Tech
 
 python M-TECH.py
 
